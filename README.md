@@ -1,2 +1,2 @@
 # dice-simulator
-A dice simulator 
+A dice simulator! 
